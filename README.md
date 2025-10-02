@@ -98,7 +98,7 @@ We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Vide
 📩 **Email:** [codeassists@gmail.com](mailto:codeassists@gmail.com)  
 📱 **Phone / WhatsApp:** [+91-8470010001](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20am%20interested%20in%20Email%20Spam%20Detection%20project) 👉 [Chat Now](https://wa.me/918470010001?text=Hello%20Team%2C%20I%20am%20interested%20in%20Email%20Spam%20Detection%20project)  
 🌐 **Websites:** [CodeAssists](http://codeassists.com/), [FreeProjectz](https://www.freeprojectz.com/)  
-📌 **Project Link:** ([https://www.freeprojectz.com/python-django-projects/email-spam-detection-system](https://www.freeprojectz.com/python-django-projects/email-spam-detection-system))  
+📌 **Project Link:** (https://www.freeprojectz.com/spam-detection-system-machine-learning-project-code)  
 
 ---
 
