@@ -109,8 +109,3 @@ We provide **Source Code, Project Report, Synopsis, PPT, Documentation, and Vide
 - Django 5+  
 - MySQL Server  
 
-### 🔹 Steps  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/email-spam-detection.git
-   cd email-spam-detection
